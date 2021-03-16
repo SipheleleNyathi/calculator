@@ -1,5 +1,11 @@
 package za.ac.cput.calculator;
 
+/**
+ * @author SIPHELELE NYATHI
+ * 16/03/2021
+ * 218334028
+ */
+
 public class Division {
 
 //returns results of division
